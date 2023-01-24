@@ -13,7 +13,7 @@ terraform {
 }
 
 provider "google" {
-  project = "devops-botcamp-dio"
+  project = "devops-bootcamp-dio"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
